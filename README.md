@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 
 
 
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -83,3 +84,4 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+-->
