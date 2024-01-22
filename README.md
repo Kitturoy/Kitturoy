@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Arijit Roy</h1>
 <h3 align="center">A passionate web developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitturoy&label=Profile%20views&color=0e75b6&style=flat" alt="kitturoy" /> </p>
 
 - 🔭I’m looking for **full-time opportunites**
@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arijit--roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arijit--roy/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kittyroy309" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kittyroy309" height="30" width="40" /></a>
