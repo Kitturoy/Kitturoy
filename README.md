@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Arijit Roy</h1>
-============================================================================================
+==========================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5000&pause=1000&color=9046FF&width=435&lines=But+my+friends+call+me+Kittu.)](https://github.com/sponsors/heyValdemar)
 
